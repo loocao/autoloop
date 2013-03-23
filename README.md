@@ -19,7 +19,7 @@ _Auto loop xiami.com_
 欢迎加入QQ群138337369,分享音乐,分享心情。
 
 欢迎来到我们的Loop房间: [听着静静的音乐,敲打着一如既往的寂寞](http://loop.xiami.com/room/29066 "听着静静的音乐,敲打着一如既往的寂寞")  
-![听着静静的音乐,敲打着一如既往的寂寞](resource/29066.jpg)
+![听着静静的音乐,敲打着一如既往的寂寞](https://raw.github.com/oncereply/autoloop/master/resources/29066.jpg)
 
 ###FAQ:###
 * [解决chrome.tabs.executeScript执行JavaScript时事件失效问题](http://www.oncereply.me/articles/2012/04/16/1334601805281.html "解决chrome.tabs.executeScript执行JavaScript时事件失效问")
