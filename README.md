@@ -4,10 +4,10 @@
 ---
 _Auto loop xiami.com_
 
-###主页:###
+###主页(Home Page):###
 <http://www.oncereply.me/auto-loop-chrome-extensions>
 
-###下载:###
+###下载(Download):###
 <https://chrome.google.com/webstore/detail/auto-loop/mghcdhmkpcpokjlfeimlmbcmklimjjhf?hl=zh-CN>  
 <https://chrome.google.com/webstore/search-extensions/autoloop?hl=zh-CN>
 
