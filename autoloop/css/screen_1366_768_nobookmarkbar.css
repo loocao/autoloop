@@ -1,0 +1,39 @@
+#wrapper{
+	margin: 0 30px auto !important;
+}
+#footer{
+	height: 25px !important;
+	line-height: 25px !important;
+	width: 1310px !important;
+}
+.room_chat{
+	left: 980px;
+	width: 330px !important;
+	height: 100% !important;
+	bottom: 0px !important;
+}
+.chat_content{
+	width: 320px !important;
+	height: 560px !important;
+}
+.room_chat #word{
+	width: 210px !important;
+}
+#chat_tab{
+	left: 93px !important;
+}
+#chat_member > dt{
+	width: 68px;
+}
+#chat_action{
+	width: 108px !important;
+}
+#chat_action > b{
+	visibility:hidden;
+}
+#chat_bulletin{
+	width: 313px !important;
+}
+#chat_bulletin marquee{
+	width: 236px !important;
+}
