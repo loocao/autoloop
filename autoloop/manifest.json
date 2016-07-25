@@ -22,5 +22,5 @@
 		"webRequestBlocking",
 		"http://loop.xiami.com/room/*"
 	],
-	"homepage_url": "http://www.oncereply.me/auto-loop-chrome-extensions"
+	"homepage_url": "https://github.com/oncereply/autoloop"
 }
