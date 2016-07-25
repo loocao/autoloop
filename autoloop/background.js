@@ -24,7 +24,7 @@ chrome.webRequest.onCompleted.addListener(function(details){
  * show tab icon.
  */
 function showTabIcon(tab){
-	if(/^http:\/\/loop.xiami.com\/room\/\d{5}$/.test(tab.url)){
+	if(/^http:\/\/loop.xiami.com\/room\/\d{5}(\?.+)?$/.test(tab.url)){
 		console.log("Updated tab url is " + tab.url);
 		chrome.pageAction.show(tab.id);
 		console.log("show icon in " + tab.url);
